@@ -1,6 +1,6 @@
 # Challenge Amigo secreto
 
-Sortear nombres de los nombres de los amigos que se ingresen aleatoriamente.
+Sortear los nombres de amigos que se ingresen aleatoriamente.
 
 ## 🔨 Funcionalidades del proyecto
 
